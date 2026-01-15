@@ -1,3 +1,0 @@
-[submodule "path/to/inner_repo"]
-	path = path/to/inner_repo
-	url = git@github.com:hellenmureithi/Model_Tuning_and_Pipelines-.git
